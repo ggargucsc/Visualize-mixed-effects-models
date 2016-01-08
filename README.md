@@ -1,4 +1,4 @@
-# mixviz
+
 Visualizing linear mixed-effects models
 
 How to run the shiny app 
