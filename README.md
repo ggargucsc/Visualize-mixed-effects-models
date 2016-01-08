@@ -1,6 +1,6 @@
 
 Visualizing linear mixed-effects models - This is the work I did at University of Washington during summer'15.
-This tool enables you to visualize random effects in your data, and then let you add those effects towards mixed effects model.
+This tool enables you to visualize random effects in your data, and then let you add those effects for mixed effects model.
 
 How to run the shiny app 
 ```R
